@@ -13,3 +13,5 @@ This program implemented a number baseball game.
 - Eclipse
 - Mary TTS
 
+## Screenshot
+<img width="375" alt="bulls" src="https://user-images.githubusercontent.com/57633459/140762886-0188754b-3b74-4557-b4a2-297f448f83ac.PNG">
